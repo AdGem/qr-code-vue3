@@ -7,6 +7,7 @@ import type { Options, RequiredOptions } from "./QROptions";
 import sanitizeOptions from "../tools/sanitizeOptions";
 import type { Extension, QRCode } from "../types";
 import qrcode from "qrcode-generator";
+
 type DownloadOptions = {
   name?: string;
   extension?: Extension;
