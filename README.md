@@ -20,7 +20,7 @@ If you have issues / suggestions / notes / questions, please open an issue or co
 ### Installation
 
 ```
-npm install qr-code-generator-vue3 --save
+npm install adgem/qrcode-vue3 --save
 ```
 
 ### QR Code Scanner
