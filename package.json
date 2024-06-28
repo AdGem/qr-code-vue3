@@ -1,5 +1,5 @@
 {
-  "name": "adgem-qrcode-vue3",
+  "name": "qr-code-vue3",
   "version": "1.0.1",
   "description": "Add a style and an image to your QR code Vue3",
   "main": "lib/index.js",
