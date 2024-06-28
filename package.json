@@ -1,6 +1,6 @@
 {
   "name": "adgem-qrcode-vue3",
-  "version": "1.4.21",
+  "version": "1.0.1",
   "description": "Add a style and an image to your QR code Vue3",
   "main": "lib/index.js",
   "types": "src/index.d.ts",
@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gimanh/qr-code-vue3.git"
+    "url": "git+https://github.com/AdGem/qr-code-vue3.git"
   },
   "keywords": [
     "qr",
@@ -66,7 +66,7 @@
   "author": "Nikolay Giman <gimanhead@gmail.com>, Ludovit Scholtz <ludovit@scholtz.sk>, Diadal <info@diadal.com.ng>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Gimanh/qr-code-vue3/issues"
+    "url": "https://github.com/AdGem/qr-code-vue3/issues"
   },
-  "homepage": "https://github.com/Gimanh/qr-code-vue3"
+  "homepage": "https://github.com/AdGem/qr-code-vue3"
 }
